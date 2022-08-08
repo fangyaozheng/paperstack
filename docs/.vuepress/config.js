@@ -15,7 +15,7 @@ module.exports = {
           // NavbarItem
           {
             text: '首页',
-            link: '/',
+            link: 'https://earnest-dragon-770647.netlify.app/',
           },
           {
             text: '链接们',
